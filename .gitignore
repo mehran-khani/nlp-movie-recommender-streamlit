@@ -1,0 +1,12 @@
+# Ignore Streamlit secrets file (contains API key!)
+.streamlit/secrets.toml
+
+# Ignore Python virtual environment
+venv/
+
+# Ignore Python cache files
+__pycache__/
+*.pyc
+
+.DS_Store  # macOS
+Thumbs.db  # Windows
